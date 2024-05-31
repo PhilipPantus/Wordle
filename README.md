@@ -1,1 +1,2 @@
-# Wordle
+# Werdel
+Open Source Werdel
